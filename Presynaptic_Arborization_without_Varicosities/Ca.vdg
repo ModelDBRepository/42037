@@ -1,0 +1,58 @@
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>    modules name: vdg		>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Ivd:		> 	Current due to a voltage-dependent conductance	>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>------------------------------->--------------------------------------->
+>				>	    _	      p			>
+>	1			>	G= (g+R) x A x B 	(1)	>
+>   Ca.A	           >A<   	>   activation function			>
+>   Ca.B	           >B<	        >   inactivation function		>
+>   vdg.R	           >R<	>   random fluctuations			>
+>   0.002         >0.002 g uS or S/cm2<	>   use S/cm2 if using area		>
+>   3 		   >P<	        >					>
+>   60 		>E mV<	        >	Ivd = G x (V -E)		>
+>				>					>
+>------------------------------->--------------------------------------->
+>				>	      _	  p			>
+>	2			>	Ivd= (g+R) x m x h 	(2)	>
+>  Na.m		  >m<	        >   HH activation function		>
+>   Na.h		  >h<	>   HH inactivation function		>
+>   vdg.R	  >R<	        >   random fluctuations			>
+>   0.35    >.35 g uS or S/cm2<	>   use S/cm2 if using area		>
+>   3 		  >P<	        >					>
+>   35 	       >55 E mV<	>	Ivd = G x (V -E)		>
+>				>					>
+>------------------------------->--------------------------------------->
+				>	    _	    p			>
+	3			>	G= (g+R) x A		(3)	>
+   Ca.A		  >A<	>   activation function			>
+>   filename.R		  >R<	>   random fluctuations			>
+   0.002    >g uS or S/cm2<	>   use S/cm2 if using area		>
+   1 		  >P<	>					>
+   60	       >E mV<	>	Ivd = G x (V -E)		>
+				>					>
+>------------------------------->--------------------------------------->
+>				>	      _	      p			>
+>	4			>	Ivd= (g+R) x m 		(4)	>
+>    Ca.m		  >m<	>   HH activation function		>
+>   filename.R		  >R<	>   random fluctuations			>
+>   0.002      >g uS or S/cm2<	>   use S/cm2 if using area		>
+>   1.0    		  >P<	>					>
+>   150.0 	       >E mV<	>	Ivd = G x (V -E)		>
+>				>					>
+>------------------------------->--------------------------------------->
+>				>					>
+>	5			>	Ivd = (G+R) x (V -E)	(5)	>
+>   vdg.R		 >R<	>   random fluctuations			>
+>   0.0002   >g uS or S/cm2<	>   use S/cm2 if using area		>
+>   -60.0 	      >E mV<	>					>
+>				>					>
+>------------------------------->--------------------------------------->
+
+END

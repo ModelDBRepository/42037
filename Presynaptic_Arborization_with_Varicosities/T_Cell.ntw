@@ -1,0 +1,1499 @@
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>    MODULES NAME: ntw		>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+>----------------------->------------------------------->
+  LIST_NEURONS:		> 	List of Neurons		>
+>.......................>...............................>
+	Soma		>	Neuron's name		>
+	Soma.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	C1		>	Neuron's name		>
+	neuO_3.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA1		>	Neuron's name		>
+	neuO_13.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA2		>	Neuron's name		>
+	neuO_13.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA3		>	Neuron's name		>
+	neuC_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA4		>	Neuron's name		>
+	neuO_14.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA5		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA6		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA7		>	Neuron's name		>
+	neuO_10.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA8   	>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA9		>	Neuron's name		>
+	neuO_12.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+>	CA10		>	Neuron's name		>
+>	neuO_12.neu 	>	File Name		>
+>	green	 	>	Color Name		>
+>.......................>...............................>
+>	CA11		>	Neuron's name		>
+>	neuC_5.neu 	>	File Name		>
+>	green	 	>	Color Name		>
+>.......................>...............................>
+>	CA12		>	Neuron's name		>
+>	neuC_10.neu 	>	File Name		>
+>	green	 	>	Color Name		>
+>.......................>...............................>
+>-------------------------------------->-------------------------------------------->
+>--------------------------------------->--------------------------------------------->
+>.......................>...............................>
+	0S		>	Neuron's name		>
+	neuST1.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	2S		>	Neuron's name		>
+	neuST2.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	1S1		>	Neuron's name		>
+	neuST3.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	1S2		>	Neuron's name		>
+	neuST7.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	1S3		>	Neuron's name		>
+	neuST3.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	1S4		>	Neuron's name		>
+	neuST7.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	1S5		>	Neuron's name		>
+	neuST3.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	3S		>	Neuron's name		>
+	neuST4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	4S		>	Neuron's name		>
+	neuST4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	5S		>	Neuron's name		>
+	neuST4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	6S		>	Neuron's name		>
+	neuST4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	7S		>	Neuron's name		>
+	neuST5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	8S		>	Neuron's name		>
+	neuST5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	9S		>	Neuron's name		>
+	neuST5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	10S		>	Neuron's name		>
+	neuST5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	11S		>	Neuron's name		>
+	neuST5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	12S		>	Neuron's name		>
+	neuST5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	13S		>	Neuron's name		>
+	neuST5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	14S		>	Neuron's name		>
+	neuST5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	15S		>	Neuron's name		>
+	neuST6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+>	16S		>	Neuron's name		>
+>	neuST6.neu 	>	File Name		>
+>	green	 	>	Color Name		>
+>.......................>...............................>
+	17S		>	Neuron's name		>
+	neuST6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+>	18S		>	Neuron's name		>
+>	neuST6.neu 	>	File Name		>
+>	green	 	>	Color Name		>
+>.......................>...............................>
+	19S		>	Neuron's name		>
+	neuST6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+>	20S		>	Neuron's name		>
+>	neuST6.neu 	>	File Name		>
+>	green	 	>	Color Name		>
+>.......................>...............................>
+	21S		>	Neuron's name		>
+	neuST6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+>	22S		>	Neuron's name		>
+>	neuST6.neu 	>	File Name		>
+>	green	 	>	Color Name		>
+>.......................>...............................>
+	23S		>	Neuron's name		>
+	neuST6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+>	24S		>	Neuron's name		>
+>	neuST6.neu 	>	File Name		>
+>	green	 	>	Color Name		>
+>.......................>...............................>
+	25S		>	Neuron's name		>
+	neuST6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+>	26S		>	Neuron's name		>
+>	neuST6.neu 	>	File Name		>
+>	green	 	>	Color Name		>
+>.......................>...............................>
+	27S		>	Neuron's name		>
+	neuST6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+>	28S		>	Neuron's name		>
+>	neuST6.neu 	>	File Name		>
+>	green	 	>	Color Name		>
+>.......................>...............................>
+	29S		>	Neuron's name		>
+	neuST6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+>	30S		>	Neuron's name		>
+>	neuST6.neu 	>	File Name		>
+>	green	 	>	Color Name		>
+>--------------------------------------->---------------------------------------------->
+>----------------------------------------->--------------------------------------------->
+	CA13		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA14		>	Neuron's name		>
+	neuO_9.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA15		>	Neuron's name		>
+	neuC_12.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA16		>	Neuron's name		>
+	neuC_9.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA17		>	Neuron's name		>
+	neuO_13.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA18		>	Neuron's name		>
+	neuC_11.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA19		>	Neuron's name		>
+	neuO_12.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA20		>	Neuron's name		>
+	neuC_11.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA21		>	Neuron's name		>
+	neuO_12.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>>.......................>...............................>
+	CA22		>	Neuron's name		>
+	neuC_6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA23		>	Neuron's name		>
+	neuO_12.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA24		>	Neuron's name		>
+	neuC_11.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA25		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA26		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA27		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA28		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA29		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>>.......................>...............................>
+	CA30		>	Neuron's name		>
+	neuC_5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA31   	>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA32		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA33		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA34		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>>.......................>...............................>
+	CA35		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA36		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA37		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA38		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA39		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+><.......................>...............................>
+	CA40		>	Neuron's name		>
+	neuC_11.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA41		>	Neuron's name		>
+	neuO_15.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA42		>	Neuron's name		>
+	neuC_11.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA43		>	Neuron's name		>>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA44		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA45		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA46		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA47		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>	
+	CA48		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA49		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA50		>	Neuron's name		>
+	neuC_7.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA51		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA52		>	Neuron's name		>
+	neuC_7.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA53		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA54		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA55   	>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA56		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA57		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA58		>	Neuron's name		>
+	neuC_7.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA59		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA60		>	Neuron's name		>
+	neuC_7.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CA61		>	Neuron's name		>
+	neuC_7.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP1		>	Neuron's name		>
+	neuO_1.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP2		>	Neuron's name		>
+	neuO_7.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP3		>	Neuron's name		>
+	neuO_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP4		>	Neuron's name		>
+	neuC_3.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP5		>	Neuron's name		>
+	neuO_7.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP6		>	Neuron's name		>
+	neuC_3.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP7		>	Neuron's name		>
+	neuO_2.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP8   	>	Neuron's name		>
+	neuO_2.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP9		>	Neuron's name		>
+	neuC_1.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP10		>	Neuron's name		>
+	neuO_5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP11		>	Neuron's name		>
+	neuC_2.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP12		>	Neuron's name		>
+	neuO_6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP13		>	Neuron's name		>
+	neuO_6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP14		>	Neuron's name		>
+	neuO_5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP15		>	Neuron's name		>
+	neuC_2.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP16		>	Neuron's name		>
+	neuO_6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP17		>	Neuron's name		>
+	neuO_2.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP18		>	Neuron's name		>
+	neuO_2.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP19		>	Neuron's name		>
+	neuC_1.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP20		>	Neuron's name		>
+	neuO_15.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP21		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>>.......................>...............................>
+	CP22		>	Neuron's name		>
+	neuO_10.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP23		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP24		>	Neuron's name		>
+	neuO_10.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP25		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP26		>	Neuron's name		>
+	neuO_10.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP27		>	Neuron's name		>
+	neuC_5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP28		>	Neuron's name		>
+	neuO_10.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP29		>	Neuron's name		>
+	neuC_11.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>>.......................>...............................>
+	CP30		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP31   	>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP32		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP33		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP34		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>>.......................>...............................>
+	CP35		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP36		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP37		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP38		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP39		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+><.......................>...............................>
+	CP40		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP41		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP42		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP43		>	Neuron's name		>>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP44		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP45		>	Neuron's name		>
+	neuC_5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP46		>	Neuron's name		>
+	neuO_15.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP47		>	Neuron's name		>
+	neuC_6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>	
+	CP48		>	Neuron's name		>
+	neuO_15.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP49		>	Neuron's name		>
+	neuC_6.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP50		>	Neuron's name		>
+	neuO_11.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP51		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP52		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP53		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP54		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP55    	>	Neuron's name		>
+	neuO_15.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP56		>	Neuron's name		>
+	neuC_5.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP57		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP58		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP59		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP60		>	Neuron's name		>
+	neuO_15.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP61		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP62		>	Neuron's name		>
+	neuO_15.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP63		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................>
+	CP64		>	Neuron's name		>
+	neuO_8.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>>.......................>...............................>
+	CP65		>	Neuron's name		>
+	neuC_4.neu 	>	File Name		>
+	green	 	>	Color Name		>
+>.......................>...............................> 
+ END		>				>
+>----------------------->------------------------------->
+  	ELCTRCPL:	> 	Electrical coupling	>
+>.......................>...............................>
+	Soma		> Name of first neuron		>
+	C1		> Name of second neuron		>
+	Soma_C1.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	C1		> Name of first neuron		>
+	CA1		> Name of second neuron		>
+	C1_CA1.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA1		> Name of first neuron		>
+	CA7		> Name of second neuron		>
+	CA1_CA7.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA1		> Name of first neuron		>
+	CA2		> Name of second neuron		>
+	CA1_CA2.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA2		> Name of first neuron		>
+	CA3		> Name of second neuron		>
+	CA2_CA3.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA2		> Name of first neuron		>
+	CA4		> Name of second neuron		>
+	CA2_CA4.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA4		> Name of first neuron		>
+	CA5		> Name of second neuron		>
+	CA4_CA5.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA4		> Name of first neuron		>
+	CA6		> Name of second neuron		>
+	CA4_CA6.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA7		> Name of first neuron		>
+	CA8		> Name of second neuron		>
+	CA7_CA8.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA7		> Name of first neuron		>
+	CA9		> Name of second neuron		>
+	CA7_CA9.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA9		> Name of first neuron		>
+	CA13		> Name of second neuron		>
+	CA9_CA13.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+>	CA9		> Name of first neuron		>
+>	CA10		> Name of second neuron		>
+>	CA9_CA10.es		> File Name			>
+>	red	 	> Color Name			>
+>.......................>...............................>
+>	CA10		> Name of first neuron		>
+>	CA11		> Name of second neuron		>
+>	CA10_CA11.es		> File Name			>
+>	red	 	> Color Name			>
+>.......................>...............................>
+>	CA10		> Name of first neuron		>
+>	CA12		> Name of second neuron		>
+>	CA10_CA12.es		> File Name			>
+>	red	 	> Color Name			>
+>.......................>...............................>
+>-------------------------------------->----------------------------------------------->
+>------------------------------------------>--------------------------------------------------->
+>.......................>...............................>
+	CA9		> Name of first neuron		>
+	0S		> Name of second neuron		>
+	CA9_0S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	0S		> Name of first neuron		>
+	2S		> Name of second neuron		>
+	0S_2S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	2S		> Name of first neuron		>
+	6S		> Name of second neuron		>
+	2S_6S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	2S		> Name of first neuron		>
+	5S		> Name of second neuron		>
+	2S_5S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	2S		> Name of first neuron		>
+	6S		> Name of second neuron		>
+	2S_6S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	6S		> Name of first neuron		>
+	13S		> Name of second neuron		>
+	6S_13S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	6S		> Name of first neuron		>
+	14S		> Name of second neuron		>
+	6S_14S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	13S		> Name of first neuron		>
+	27S		> Name of second neuron		>
+	13S_27S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+>	13S		> Name of first neuron		>
+>	28S		> Name of second neuron		>
+>	13S_28S.es		> File Name			>
+>	red	 	> Color Name			>
+>.......................>...............................>
+	14S		> Name of first neuron		>
+	29S		> Name of second neuron		>
+	14S_29S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+>	14S		> Name of first neuron		>
+>	30S		> Name of second neuron		>
+>	14S_30S.es		> File Name			>
+>	red	 	> Color Name			>
+>.......................>...............................>
+	5S		> Name of first neuron		>
+	11S		> Name of second neuron		>
+	5S_11S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	5S		> Name of first neuron		>
+	12S		> Name of second neuron		>
+	5S_12S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	11S		> Name of first neuron		>
+	23S		> Name of second neuron		>
+	11S_23S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+>	11S		> Name of first neuron		>
+>	24S		> Name of second neuron		>
+>	11S_24S.es		> File Name			>
+>	red	 	> Color Name			>
+>.......................>...............................>
+	12S		> Name of first neuron		>
+	25S		> Name of second neuron		>
+	12S_25S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+>	12S		> Name of first neuron		>
+>	26S		> Name of second neuron		>
+>	12S_26S.es		> File Name			>
+>	red	 	> Color Name			>
+>.......................>...............................>
+	0S		> Name of first neuron		>
+	1S1		> Name of second neuron		>
+	0S_1S1.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	1S1		> Name of first neuron		>
+	1S2		> Name of second neuron		>
+	1S1_1S2.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	1S2		> Name of first neuron		>
+	1S3		> Name of second neuron		>
+	1S2_1S3.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	1S3		> Name of first neuron		>
+	1S4		> Name of second neuron		>
+	1S3_1S4.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	1S4		> Name of first neuron		>
+	1S5		> Name of second neuron		>
+	1S4_1S5.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	1S5		> Name of first neuron		>
+	3S		> Name of second neuron		>
+	1S5_3S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	1S5		> Name of first neuron		>
+	4S		> Name of second neuron		>
+	1S5_4S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	3S		> Name of first neuron		>
+	7S		> Name of second neuron		>
+	3S_7S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	3S		> Name of first neuron		>
+	8S		> Name of second neuron		>
+	3S_8S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	7S		> Name of first neuron		>
+	15S		> Name of second neuron		>
+	7S_15S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+>	7S		> Name of first neuron		>
+>	16S		> Name of second neuron		>
+>	7S_16S.es		> File Name			>
+>	red	 	> Color Name			>
+>.......................>...............................>
+	8S		> Name of first neuron		>
+	17S		> Name of second neuron		>
+	8S_17S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+>	8S		> Name of first neuron		>
+>	18S		> Name of second neuron		>
+>	8S_18S.es		> File Name			>
+>	red	 	> Color Name			>
+>.......................>...............................>
+	4S		> Name of first neuron		>
+	9S		> Name of second neuron		>
+	4S_9S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	4S		> Name of first neuron		>
+	10S		> Name of second neuron		>
+	4S_10S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	9S		> Name of first neuron		>
+	19S		> Name of second neuron		>
+	9S_19S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+>	9S		> Name of first neuron		>
+>	20S		> Name of second neuron		>
+>	9S_20S.es		> File Name			>
+>	red	 	> Color Name			>
+>.......................>...............................>
+	10S		> Name of first neuron		>
+	21S		> Name of second neuron		>
+	10S_21S.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+>	10S		> Name of first neuron		>
+>	22S		> Name of second neuron		>
+>	10S_22S.es		> File Name			>
+>	red	 	> Color Name			>
+>.......................>...............................>
+>------------------------------------------>------------------------------------------------->
+>-------------------------------------------->----------------------------------------------------->
+	CA13		> Name of first neuron		>
+	CA17		> Name of second neuron		>
+	CA13_CA17.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA13		> Name of first neuron		>
+	CA14		> Name of second neuron		>
+	CA13_CA14.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA14		> Name of first neuron		>
+	CA15		> Name of second neuron		>
+	CA14_CA15.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA14		> Name of first neuron		>
+	CA16		> Name of second neuron		>
+	CA14_CA16.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA17		> Name of first neuron		>
+	CA18		> Name of second neuron		>
+	CA17_CA18.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA17		> Name of first neuron		>
+	CA19		> Name of second neuron		>
+	CA17_CA19.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA19		> Name of first neuron		>
+	CA20		> Name of second neuron		>
+	CA19_CA20.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA19		> Name of first neuron		>
+	CA21		> Name of second neuron		>
+	CA19_CA21.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA21		> Name of first neuron		>
+	CA22		> Name of second neuron		>
+	CA21_CA22.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA21		> Name of first neuron		>
+	CA23		> Name of second neuron		>
+	CA21_CA23.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA23		> Name of first neuron		>
+	CA24		> Name of second neuron		>
+	CA23_CA24.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA23		> Name of first neuron		>
+	CA25		> Name of second neuron		>
+	CA23_CA25.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA25		> Name of first neuron		>
+	CA26		> Name of second neuron		>
+	CA25_CA26.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA26		> Name of first neuron		>
+	CA27		> Name of second neuron		>
+	CA26_CA27.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA27		> Name of first neuron		>
+	CA28		> Name of second neuron		>
+	CA27_CA28.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA28		> Name of first neuron		>
+	CA29		> Name of second neuron		>
+	CA28_CA29.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA29		> Name of first neuron		>
+	CA30		> Name of second neuron		>
+	CA29_CA30.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA30		> Name of first neuron		>
+	CA31		> Name of second neuron		>
+	CA30_CA31.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA31		> Name of first neuron		>
+	CA32		> Name of second neuron		>
+	CA31_CA32.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA32		> Name of first neuron		>
+	CA33		> Name of second neuron		>
+	CA32_CA33.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA33		> Name of first neuron		>
+	CA34		> Name of second neuron		>
+	CA33_CA34.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA34		> Name of first neuron		>
+	CA35		> Name of second neuron		>
+	CA34_CA35.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA35		> Name of first neuron		>
+	CA36		> Name of second neuron		>
+	CA35_CA36.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA36		> Name of first neuron		>
+	CA37		> Name of second neuron		>
+	CA36_CA37.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA37		> Name of first neuron		>
+	CA38		> Name of second neuron		>
+	CA37_CA38.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA38		> Name of first neuron		>
+	CA39		> Name of second neuron		>
+	CA38_CA39.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+>.......................>...............................>
+>.......................>...............................>
+	CA39		> Name of first neuron		>
+	CA40		> Name of second neuron		>
+	CA39_CA40.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA39		> Name of first neuron		>
+	CA41		> Name of second neuron		>
+	CA39_CA41.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA41		> Name of first neuron		>
+        CA42    	> Name of second neuron		>
+	CA41_CA42.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA41		> Name of first neuron		>
+	CA43		> Name of second neuron		>
+	CA41_CA43.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA43		> Name of first neuron		>
+	CA44		> Name of second neuron		>
+	CA43_CA44.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA43		> Name of first neuron		>
+	CA45		> Name of second neuron		>
+	CA43_CA45.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA45		> Name of first neuron		>
+	CA49		> Name of second neuron		>
+	CA45_CA49.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA45		> Name of first neuron		>
+	CA46		> Name of second neuron		>
+	CA45_CA46.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA46		> Name of first neuron		>
+	CA47		> Name of second neuron		>
+	CA46_CA47.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>	
+	CA47    	> Name of first neuron		>
+	CA48		> Name of second neuron		>
+	CA47_CA48.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA49		> Name of first neuron		>
+	CA50		> Name of second neuron		>
+	CA49_CA50.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA49		> Name of first neuron		>
+	CA51		> Name of second neuron		>
+	CA49_CA51.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA51		> Name of first neuron		>
+	CA52		> Name of second neuron		>
+	CA51_CA52.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA51		> Name of first neuron		>
+	CA53		> Name of second neuron		>
+	CA51_CA53.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+ 	CA53		> Name of first neuron		>
+	CA57		> Name of second neuron		>
+	CA53_CA57.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA53		> Name of first neuron		>
+	CA54		> Name of second neuron		>
+	CA53_CA54.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA54		> Name of first neuron		>
+	CA55		> Name of second neuron		>
+	CA54_CA55.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA55		> Name of first neuron		>
+	CA56		> Name of second neuron		>
+	CA55_CA56.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA57		> Name of first neuron		>
+	CA58		> Name of second neuron		>
+	CA57_CA58.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CA57		> Name of first neuron		>
+	CA59		> Name of second neuron		>>
+	CA57_CA59.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+  	CA59		> Name of first neuron		>
+	CA60		> Name of second neuron		>
+	CA59_CA60.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CA59		> Name of first neuron		>
+	CA61		> Name of second neuron		>
+	CA59_CA61.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................> 
+	C1		> Name of first neuron		>
+	CP1		> Name of second neuron		>
+	C1_CP1.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP1		> Name of first neuron		>
+	CP2		> Name of second neuron		>
+	CP1_CP2.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP1		> Name of first neuron		>
+	CP3		> Name of second neuron		>
+	CP1_CP3.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP2		> Name of first neuron		>
+	CP4		> Name of second neuron		>
+	CP2_CP4.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP2		> Name of first neuron		>
+	CP5		> Name of second neuron		>
+	CP2_CP5.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP5		> Name of first neuron		>
+	CP6		> Name of second neuron		>
+	CP5_CP6.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP5		> Name of first neuron		>
+	CP7		> Name of second neuron		>
+	CP5_CP7.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP7		> Name of first neuron		>
+	CP8		> Name of second neuron		>
+	CP7_CP8.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP8		> Name of first neuron		>
+	CP9		> Name of second neuron		>
+	CP8_CP9.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP3		> Name of first neuron		>
+	CP10		> Name of second neuron		>
+	CP3_CP10.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP3		> Name of first neuron		>
+	CP12		> Name of second neuron		>
+	CP3_CP12.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP10		> Name of first neuron		>
+	CP11		> Name of second neuron		>
+	CP10_CP11.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP12		> Name of first neuron		>
+	CP13		> Name of second neuron		>
+	CP12_CP13.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP13		> Name of first neuron		>
+	CP14		> Name of second neuron		>
+	CP13_CP14.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>	
+	CP13		> Name of first neuron		>
+	CP16		> Name of second neuron		>
+	CP13_CP16.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP14		> Name of first neuron		>
+	CP15		> Name of second neuron		>
+	CP14_CP15.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP16		> Name of first neuron		>
+	CP17		> Name of second neuron		>
+	CP16_CP17.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP16		> Name of first neuron		>
+	CP20		> Name of second neuron		>
+	CP16_CP20.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP17		> Name of first neuron		>
+	CP18		> Name of second neuron		>
+	CP17_CP18.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+  	CP18		> Name of first neuron		>
+	CP19		> Name of second neuron		>
+	CP18_CP19.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP20		> Name of first neuron		>
+	CP21		> Name of second neuron		>
+	CP20_CP21.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP20		> Name of first neuron		>
+	CP22		> Name of second neuron		>
+	CP20_CP22.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP22		> Name of first neuron		>
+	CP23		> Name of second neuron		>
+	CP22_CP23.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP22		> Name of first neuron		>
+	CP24		> Name of second neuron		>
+	CP22_CP24.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP24		> Name of first neuron		>
+	CP25		> Name of second neuron		>
+	CP24_CP25.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP24		> Name of first neuron		>
+	CP26		> Name of second neuron		>
+	CP24_CP26.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP26		> Name of first neuron		>
+	CP27		> Name of second neuron		>
+	CP26_CP27.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP26		> Name of first neuron		>
+	CP28		> Name of second neuron		>
+	CP26_CP28.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP28		> Name of first neuron		>
+	CP29		> Name of second neuron		>
+	CP28_CP29.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP28		> Name of first neuron		>
+	CP30		> Name of second neuron		>
+	CP28_CP30.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP30		> Name of first neuron		>
+	CP31		> Name of second neuron		>
+	CP30_CP31.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP31		> Name of first neuron		>
+	CP32		> Name of second neuron		>
+	CP31_CP32.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP32		> Name of first neuron		>
+	CP33		> Name of second neuron		>
+	CP32_CP33.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP33		> Name of first neuron		>
+	CP34		> Name of second neuron		>
+	CP33_CP34.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP34		> Name of first neuron		>
+	CP35		> Name of second neuron		>
+	CP34_CP35.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP35		> Name of first neuron		>
+	CP36		> Name of second neuron		>
+	CP35_CP36.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP36		> Name of first neuron		>
+	CP37		> Name of second neuron		>
+	CP36_CP37.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>	
+	CP37		> Name of first neuron		>
+	CP38		> Name of second neuron		>
+	CP37_CP38.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP38		> Name of first neuron		>
+	CP39		> Name of second neuron		>
+	CP38_CP39.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP39		> Name of first neuron		>
+	CP40		> Name of second neuron		>
+	CP39_CP40.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CP40		> Name of first neuron		>
+	CP41		> Name of second neuron		>
+	CP40_CP41.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP41		> Name of first neuron		>
+	CP42		> Name of second neuron		>
+	CP41_CP42.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+  	CP42		> Name of first neuron		>
+	CP43		> Name of second neuron		>
+	CP42_CP43.es		> File Name			>
+	red	 	> Color Name			>
+>>.......................>...............................>
+	CP43		> Name of first neuron		>
+	CP44		> Name of second neuron		>
+	CP43_CP44.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+>.......................>>...............................>
+>.......................>...............................>
+	CP44		> Name of first neuron		>
+	CP45		> Name of second neuron		>
+	CP44_CP45.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP44		> Name of first neuron		>
+	CP46		> Name of second neuron		>
+	CP44_CP46.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP46		> Name of first neuron		>
+	CP47		> Name of second neuron		>
+	CP46_CP47.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP46		> Name of first neuron		>
+	CP48		> Name of second neuron		>
+	CP46_CP48.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP48		> Name of first neuron		>
+	CP49		> Name of second neuron		>
+	CP48_CP49.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP48		> Name of first neuron		>
+	CP50		> Name of second neuron		>
+	CP48_CP50.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP50		> Name of first neuron		>
+	CP51		> Name of second neuron		>
+	CP50_CP51.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP50		> Name of first neuron		>
+	CP52		> Name of second neuron		>
+	CP50_CP52.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP52		> Name of first neuron		>
+	CP53		> Name of second neuron		>
+	CP52_CP53.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP52		> Name of first neuron		>
+	CP54		> Name of second neuron		>
+	CP52_CP54.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP54		> Name of first neuron		>
+	CP60		> Name of second neuron		>
+	CP54_CP60.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP54		> Name of first neuron		>
+	CP55		> Name of second neuron		>
+	CP54_CP55.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP55		> Name of first neuron		>
+	CP56		> Name of second neuron		>
+	CP55_CP56.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP55		> Name of first neuron		>
+	CP57		> Name of second neuron		>
+	CP55_CP57.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>	
+	CP57		> Name of first neuron		>
+	CP58		> Name of second neuron		>
+	CP57_CP58.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP58		> Name of first neuron		>
+	CP59		> Name of second neuron		>
+	CP58_CP59.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP60		> Name of first neuron		>
+	CP61		> Name of second neuron		>
+	CP60_CP61.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP60		> Name of first neuron		>
+	CP62		> Name of second neuron		>
+	CP60_CP62.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP62		> Name of first neuron		>
+	CP63		> Name of second neuron		>
+	CP62_CP63.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+ 	CP62		> Name of first neuron		>
+	CP64		> Name of second neuron		>
+	CP62_CP64.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+	CP64		> Name of first neuron		>
+	CP65		> Name of second neuron		>
+	CP64_CP65.es		> File Name			>
+	red	 	> Color Name			>
+>.......................>...............................>
+  END		>				>
+>----------------------->------------------------------->
+
+
+END
