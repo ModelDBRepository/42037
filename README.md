@@ -1,4 +1,4 @@
-# README.txt
+# README
 
 This simulation reproduces the model published in:
 
